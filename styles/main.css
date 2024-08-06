@@ -597,11 +597,12 @@ footer img{
   }
   .access{
     width: 85%;
+    top: 3rem;
   }
 
   .footer{
     flex-direction: column;
-    padding: 2rem 3rem 0 3rem
+    padding: 2rem 3rem 5rem 3rem
   }
 
   footer img{
